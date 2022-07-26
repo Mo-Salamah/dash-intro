@@ -2,7 +2,7 @@
 
 Plotly is a python plotting library (compareable to matplotlib). Its biggest advantage is the interactivity features it provides, which is especially good due to its beginner-friendly high-level interface. Dash is built on top of Plotly, and is used to create interactive dashboards. 
 
-Three main parts of creating a Dash app:
+## Three main parts of creating a Dash app:
 
 Part| Description
 ---|----|
@@ -11,7 +11,7 @@ Dash Core Components| like drop-down menues, buttons, and graphs; they provide t
 Callback| implements the logic governing the relationship between the input given from an Input Core Component (e.g., drop-down menue selection) and produced output seen through an Output Core Component (e.g., a graph)
 
 
-#Files
+## Files
 
 File| Description
 ---|----|
@@ -20,8 +20,8 @@ knn-dash-iris.py| an interactive dashboard allowing for analysis of KNN algorith
 
 
 #Learn More
-[:link: GitHub Repo containing 100s of nicely done dashboards](https://github.com/plotly/dash-sample-apps/)
-[:link: Dash official tutorial](https://dash.plotly.com/introduction)
+-[:link: GitHub Repo containing 100s of nicely done dashboards](https://github.com/plotly/dash-sample-apps/)
+-[:link: Dash official tutorial](https://dash.plotly.com/introduction)
 
 
 

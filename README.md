@@ -19,9 +19,9 @@ dash-example.py| a simple dashboard showing the average data scientist's salary 
 knn-dash-iris.py| an interactive dashboard allowing for analysis of KNN algorithm's predictions based on different parameters
 
 
-# Learn More
-[:link: GitHub Repo containing 100s of nicely done dashboards] (https://github.com/plotly/dash-sample-apps/)
-[:link: Dash official tutorial] (https://dash.plotly.com/introduction)
+#Learn More
+[:link: GitHub Repo containing 100s of nicely done dashboards](https://github.com/plotly/dash-sample-apps/)
+[:link: Dash official tutorial](https://dash.plotly.com/introduction)
 
 
 
